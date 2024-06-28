@@ -1,0 +1,5 @@
+Note : Machine Learning 2
+INITIATION A LA CREATION D'UNE API ET DEPLOIEMENT
+
+API : Application Programming Interface
+C'est un interface de programmation, c'est-à-dire un ensemble de classes, de fonctions et de méthodes qui servent de façade à un logiciel.
